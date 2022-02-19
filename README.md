@@ -76,10 +76,8 @@ if __name__ == '__main__':
 <p><a href="https://www.buymeacoffee.com/kdandy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kdandy" /></a><a href="https://ko-fi.com/kdandy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kdandy" /></a></p><br><br>
 </p>
 
-<p><a href="https://github.com/hrnbot" target="_blank"><img src="https://github.com/hrnbot/hrnbot/workflows/Progress%20Bar%20CI/badge.svg"/></a></p>
-<p>⏰ Updated on Sat, 29 Aug 2020 18:08:51 GMT</p>
 
 -----
-Credits: [hrnbot](https://github.com/hrnbot)
+Credits: [jaden](https://github.com/kdandy)
 
-Last Edited on: 30/08/2020
+Last Edited on: 19/02/2022
