@@ -72,11 +72,12 @@ if __name__ == '__main__':
 <a href="https://stackoverflow.com/users/18249850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18249850" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
-You can support me at [Trakteer](https://trakteer.id/kdandy/tip). or
+## Donate
 
+You can support me at [Trakteer](https://trakteer.id/kdandy/tip). or
 <p><a href="https://www.buymeacoffee.com/kdandy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kdandy" /></a><a href="https://ko-fi.com/kdandy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kdandy" /></a></p><br><br>
 </p>
+
 
 
 -----
