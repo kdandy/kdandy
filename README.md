@@ -23,7 +23,7 @@ class jaden():
     self.name = "Dandy";
     self.username = "kdandy";
     self.location = "Java, Indonesian";
-    self.twitter = "@luccajaden";
+    self.twitter = "@baskarajaden";
     self.web = "https://kdandy.com";
   
   def __str__(self):
@@ -64,9 +64,9 @@ if __name__ == '__main__':
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/luccajaden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luccafahmi" height="30" width="40" /></a>
+<a href="https://twitter.com/baskarajaden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luccafahmi" height="30" width="40" /></a>
 <a href="https://fb.com/dandyfaish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dandyfaish" height="30" width="40" /></a>
-<a href="https://instagram.com/luccajaden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dandyfaish" height="30" width="40" /></a>
+<a href="https://instagram.com/baskarajaden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dandyfaish" height="30" width="40" /></a>
 <a href="https://codepen.io/dandy-the-bold" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@dandy-the-bold" height="30" width="40" /></a>
 <a href="https://dev.to/kdandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kdandy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18249850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18249850" height="30" width="40" /></a>
