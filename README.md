@@ -20,7 +20,7 @@ and learning programming through small projects  on the side.
 class jaden():
     
   def __init__(self):
-    self.name = "Dandy";
+    self.name = "DANDY FAISHAL FAHMI";
     self.username = "kdandy";
     self.location = "Java, Indonesian";
     self.twitter = "@ach4zia";
