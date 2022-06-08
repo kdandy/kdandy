@@ -23,7 +23,7 @@ class jaden():
     self.name = "DANDY FAISHAL FAHMI";
     self.username = "kdandy";
     self.location = "Java, Indonesian";
-    self.twitter = "@ach4zia";
+    self.facebook = "dandyfaish";
     self.web = "kdandy.com";
   
   def __str__(self):
