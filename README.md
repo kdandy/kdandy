@@ -2,7 +2,7 @@
   <b>abhra</b>
 </h1>
 
-Heya! I'm Abhra, a student currently living in Java, Indonesian. I'm preparing for 
+Heya! I'm abhra, a student currently living in Java, Indonesian. I'm preparing for 
 <a href="https://en.wikipedia.org/wiki/Web_developer">WEB DEVELOPMENT</a>, 
 and learning programming through small projects  on the side.
 
@@ -17,7 +17,7 @@ and learning programming through small projects  on the side.
 </p>
 
 ```python
-class jaden():
+class abhra():
     
   def __init__(self):
     self.name = "DANDY FAISHAL FAHMI";
@@ -30,7 +30,7 @@ class jaden():
     return self.name
 
 if __name__ == '__main__':
-    me = jaden()
+    me = abhra()
 ```
 
 <div align="center">
