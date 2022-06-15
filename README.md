@@ -58,7 +58,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![jaden' Activity Graph](https://activity-graph.herokuapp.com/graph?username=kdandy&custom_title=kdandy%20Trips%27s%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://kdandy.com)
+[![abhra' Activity Graph](https://activity-graph.herokuapp.com/graph?username=kdandy&custom_title=kdandy%20Trips%27s%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://kdandy.com)
 
 ------
 
@@ -81,6 +81,6 @@ You can support me at [Trakteer](https://trakteer.id/kdandy/tip). or
 
 
 -----
-Credits: [jaden](https://github.com/kdandy)
+Credits: [abhra](https://github.com/kdandy)
 
 Last Edited on: 19/02/2022
