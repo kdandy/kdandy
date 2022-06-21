@@ -17,7 +17,7 @@ and learning programming through small projects  on the side.
 </p>
 
 ```python
-class abhra():
+class jaden():
     
   def __init__(self):
     self.name = "DANDY FAISHAL FAHMI";
@@ -30,7 +30,7 @@ class abhra():
     return self.name
 
 if __name__ == '__main__':
-    me = abhra()
+    me = jaden()
 ```
 
 <div align="center">
@@ -58,7 +58,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![abhra' Activity Graph](https://activity-graph.herokuapp.com/graph?username=kdandy&custom_title=kdandy%20Trips%27s%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://kdandy.com)
+[![jaden' Activity Graph](https://activity-graph.herokuapp.com/graph?username=kdandy&custom_title=kdandy%20Trips%27s%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://kdandy.com)
 
 ------
 
