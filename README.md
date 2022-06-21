@@ -81,6 +81,6 @@ You can support me at [Trakteer](https://trakteer.id/kdandy/tip). or
 
 
 -----
-Credits: [abhra](https://github.com/kdandy)
+Credits: [jaden](https://github.com/kdandy)
 
 Last Edited on: 19/02/2022
