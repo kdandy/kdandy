@@ -1,8 +1,8 @@
 <h1 align="center">
-  <b>jaden</b>
+  <b>dandy</b>
 </h1>
 
-Heya! I'm jaden, a student currently living in Java, Indonesian. I'm preparing for 
+Heya! I'm dandy, a student currently living in Java, Indonesian. I'm preparing for 
 <a href="https://en.wikipedia.org/wiki/Web_developer">WEB DEVELOPMENT</a>, 
 and learning programming through small projects  on the side.
 
