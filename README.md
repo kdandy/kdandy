@@ -1,6 +1,5 @@
 <h1 align="center">
-![readmebox](https://github.com/kdandy/kdandy/assets/50922642/f1cca4d9-3ac1-422d-91fe-fb2e6393e6bd)
-
+<img src="https://raw.github.com/specialorange/FDXCM/master/doc/controllers_brief.svg">
 </h1>
 
 Heya! I'm dandy, a student currently living in Java, Indonesian. I'm preparing for 
