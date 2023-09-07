@@ -34,12 +34,6 @@ if __name__ == '__main__':
     me = jaden()
 ```
 
-<div align="center">
-  <a href="https://open.spotify.com/user/0ug5xzc6d4z4otfwz0uyt85eb">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
 <!--
 <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
@@ -58,8 +52,6 @@ if __name__ == '__main__':
   </a>
 </p>
 <br>
-
-[![jaden' Activity Graph](https://activity-graph.herokuapp.com/graph?username=kdandy&custom_title=kdandy%20Trips%27s%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://kdandy.com)
 
 ------
 
@@ -84,4 +76,4 @@ You can support me at [Trakteer](https://trakteer.id/kdandy/tip). or
 -----
 Credits: [jaden](https://github.com/kdandy)
 
-Last Edited on: 19/02/2022
+Last Edited on: 07/09/2023
