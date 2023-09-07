@@ -18,14 +18,15 @@ and learning programming through small projects  on the side.
 </p>
 
 ```javascript
-class jaden():
-    
-  def __init__(self):
-    self.name = "Dandy";
-    self.username = "kdandy";
-    self.location = "Java, Indonesian";
-    self.facebook = "dandyfaish";
-    self.web = "kdandy.com";
+var name = "dandy";
+var username = "kdandy";
+var facebook = "dandyfaish";
+var web = "kdandy.com";
+
+console.log("Name: " + name);
+console.log("Username: " + username);
+console.log("Facebook: " + facebook);
+console.log("Website: " + web);
   
   def __str__(self):
     return self.name
