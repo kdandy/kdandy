@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/kdandy/kdandy/main/readmebox.svg">
+<img src="https://raw.githubusercontent.com/kdandy/kdandy/main/readmeboxx.svg">
 </h1>
 
 Heya! I'm dandy, a student currently living in Java, Indonesian. I'm preparing for 
