@@ -1,5 +1,6 @@
 <h1 align="center">
-<img src="https://raw.github.com/specialorange/FDXCM/master/doc/controllers_brief.svg">
+<img src="[https://github.com/kdandy/kdandy/assets/50922642/12f827aa-4a7c-45e1-b7ee-7c44b8ea1bb5]">
+
 </h1>
 
 Heya! I'm dandy, a student currently living in Java, Indonesian. I'm preparing for 
