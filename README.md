@@ -17,7 +17,7 @@ and learning programming through small projects  on the side.
 </div>
 </p>
 
-```python
+```javascript
 class jaden():
     
   def __init__(self):
