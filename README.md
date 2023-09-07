@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="[https://github.com/kdandy/kdandy/assets/50922642/12f827aa-4a7c-45e1-b7ee-7c44b8ea1bb5]">
+<img src="[https://raw.githubusercontent.com/kdandy/kdandy/main/readmebox.svg]">
 
 </h1>
 
