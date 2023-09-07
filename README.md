@@ -27,12 +27,6 @@ console.log("Name: " + name);
 console.log("Username: " + username);
 console.log("Facebook: " + facebook);
 console.log("Website: " + web);
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    me = jaden()
 ```
 
 ## My Statistics
