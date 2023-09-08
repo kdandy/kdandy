@@ -68,7 +68,7 @@
   ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: dandybdr@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/kdandy/kdandy/issues)
+ 💬 &emsp; Ask me about anything [Here](https://github.com/kdandy/kdandy/issue)
 
 </p>
 <br>
