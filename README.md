@@ -34,7 +34,7 @@
   <samp>
     <a href="https://www.google.com/search?q=kdandy">「 Google Me 」</a>
     <br>
-    「 I am a full stack web appplication developer from <b>Indoensian</b> 」
+    「 I am a full stack web appplication developer from <b>Indonesian</b> 」
     <br>
     <br>
   </samp>
