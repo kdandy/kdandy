@@ -139,7 +139,6 @@
 </p>
 
 ## Connect With Me
------
 <a href="https://twitter.com/ach4zia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luccafahmi" height="30" width="40" /></a>
 <a href="https://fb.com/dandyfaish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dandyfaish" height="30" width="40" /></a>
 <a href="https://instagram.com/abhrajaden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dandyfaish" height="30" width="40" /></a>
