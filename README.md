@@ -112,8 +112,7 @@
 <p
 
 ## Connect With Me
-
-<p align="left">
+-----
 <a href="https://twitter.com/ach4zia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luccafahmi" height="30" width="40" /></a>
 <a href="https://fb.com/dandyfaish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dandyfaish" height="30" width="40" /></a>
 <a href="https://instagram.com/abhrajaden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dandyfaish" height="30" width="40" /></a>
@@ -123,7 +122,6 @@
 </p>
 
 ## Donate
-
 You can support me at [Trakteer](https://trakteer.id/kdandy/tip). or
 <p><a href="https://www.buymeacoffee.com/kdandy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kdandy" /></a><a href="https://ko-fi.com/kdandy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kdandy" /></a></p><br><br>
 </p>
