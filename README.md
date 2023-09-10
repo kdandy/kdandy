@@ -129,6 +129,15 @@
 
 ## Donate
 You can support me at [Trakteer](https://trakteer.id/kdandy/tip). or
+<p></p>
+
+<h2 id="dukungan">💌 Dukungan</h2>
+
+Kalian bisa mendukung saya di platform trakteer! Dukungan kalian akan sangat membantu untuk saya, namun dengan anda star project ini juga sudah sangat membantu lho!
+
+<p></p>
+
+<a href="https://trakteer.id/syaufy" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-5.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
 <p><a href="https://www.buymeacoffee.com/kdandy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kdandy" /></a><a href="https://ko-fi.com/kdandy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kdandy" /></a></p><br><br>
 </p>
 
