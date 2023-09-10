@@ -137,7 +137,6 @@ You can support me on the Trakteer platform or other platforms! Your support wil
 </br>
 <p>
 
------
 Credits: [jaden](https://github.com/kdandy)
 
 Last Edited on: 08/09/2023
