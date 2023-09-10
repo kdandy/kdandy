@@ -127,18 +127,15 @@
 <a href="https://stackoverflow.com/users/18249850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18249850" height="30" width="40" /></a>
 </p>
 
-<h2 id="dukungan">💌 Dukungan</h2>
 
-Kalian bisa mendukung saya di platform trakteer! Dukungan kalian akan sangat membantu untuk saya, namun dengan anda star project ini juga sudah sangat membantu lho!
+<h2 id="dukungan">💌 Donate</h2>
 
+You can support me on the Trakteer platform or other platforms! Your support will be very helpful for me, but with you starring this project has also been very helpful, you know!
 <p>
 </p>
 
-
 <p><a href="https://trakteer.id/syaufy" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-5.png" height="50" style="border:0px;height:50px;" alt="Trakteer Saya"></a><a href="https://www.buymeacoffee.com/kdandy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kdandy" /></a><a href="https://ko-fi.com/kdandy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kdandy" /></a></p><br><br>
 </p>
-
-
 
 -----
 Credits: [jaden](https://github.com/kdandy)
