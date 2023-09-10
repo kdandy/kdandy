@@ -134,7 +134,7 @@ You can support me on the Trakteer platform or other platforms! Your support wil
 <p>
 </p>
 
-<p><a href="https://trakteer.id/syaufy" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-5.png" height="50" style="border:0px;height:50px;" alt="Trakteer Saya"></a><a href="https://www.buymeacoffee.com/kdandy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kdandy" /></a><a href="https://ko-fi.com/kdandy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kdandy" /></a></p><br><br>
+<p><a href="https://trakteer.id/kdandy" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-5.png" height="50" style="border:0px;height:50px;" alt="Trakteer Me"></a><a href="https://www.buymeacoffee.com/kdandy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kdandy" /></a><a href="https://ko-fi.com/kdandy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kdandy" /></a></p><br>
 </p>
 
 -----
