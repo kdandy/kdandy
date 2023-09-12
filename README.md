@@ -135,6 +135,10 @@ You can support me on the Trakteer platform or other platforms! Your support wil
 </p>
 <p></p><a href="https://trakteer.id/kdandy" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-5.png" height="50" style="border:0px;height:50px;" alt="Trakteer Me"></a><a href="https://www.buymeacoffee.com/kdandy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kdandy" /></a><a href="https://ko-fi.com/kdandy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kdandy" /></a><p></p>
 
-Credits: [jaden](https://github.com/kdandy)
+<h2 id="lisensi">📝 License</h2>
 
-Last Edited on: 08/09/2023
+- Copyright © 2023 DANDY FAISHAL FAHMI
+
+---
+
+**<p align="center">Made with ❤️ by DANDY FAISHAL FAHMI</p>**
