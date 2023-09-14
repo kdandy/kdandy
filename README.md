@@ -67,7 +67,6 @@
 
 - 👨🏻‍💼 My name is `Dandy`
 - 🏠 Live in `Bekasi, Indonesia`
-- 👶🏻 Born in `Bekasi, April`
 - 🧍🏻‍♂️ `18` years old
 - 💻 `Computer Science` Student at `Diponegoro University`
 - 🌟 Currently, `JS` and `Tailwind` are my favorite tech stack.
