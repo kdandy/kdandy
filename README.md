@@ -62,10 +62,10 @@
 
 </p>
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tfkhdyt.tfkhdyt" />
-  <a href="https://github.com/tfkhdyt"><img src="https://img.shields.io/github/followers/tfkhdyt?label=followers&style=social"/></a>
-  <a href="https://user-badge.committers.top/indonesia/tfkhdyt"><img src="https://user-badge.committers.top/indonesia/tfkhdyt.svg" alt="committers.top badge"></a>
-  <!-- <a href='https://stackshare.io/tfkhdyt/mn3'> -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kdandy.kdandy" />
+  <a href="https://github.com/kdandy"><img src="https://img.shields.io/github/followers/kdandy?label=followers&style=social"/></a>
+  <a href="https://user-badge.committers.top/indonesia/kdandy"><img src="https://user-badge.committers.top/indonesia/kdandy.svg" alt="committers.top badge"></a>
+  <!-- <a href='https://stackshare.io/kdandy/mn3'> -->
   <!--   <img src='http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat' alt='StackShare' /> -->
   <!-- </a> -->
 </p>
