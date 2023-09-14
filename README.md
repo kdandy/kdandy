@@ -25,14 +25,14 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://kdandy.com">dandy</a></b>
+                <b><a target="_blank" href="https://linkedin.com/in/kdandy">dandy</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=kdandy">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=DANDY+FAISHAL+FAHMI">「 Google Me 」</a>
     <br>
     「 I am a full stack web appplication developer from <b>Indonesian</b> 」
     <br>
@@ -69,8 +69,6 @@
   <!--   <img src='http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat' alt='StackShare' /> -->
   <!-- </a> -->
 </p>
-
-<h3 align=center>Junior Back End Developer | Computer Science Student | FOSS Enthusiast | GNU/Linux Nerd</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
