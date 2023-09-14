@@ -62,6 +62,20 @@
 </p>
 <br />
 
+</p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tfkhdyt.tfkhdyt" />
+  <a href="https://github.com/tfkhdyt"><img src="https://img.shields.io/github/followers/tfkhdyt?label=followers&style=social"/></a>
+  <a href="https://user-badge.committers.top/indonesia/tfkhdyt"><img src="https://user-badge.committers.top/indonesia/tfkhdyt.svg" alt="committers.top badge"></a>
+  <!-- <a href='https://stackshare.io/tfkhdyt/mn3'> -->
+  <!--   <img src='http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat' alt='StackShare' /> -->
+  <!-- </a> -->
+</p>
+
+<h3 align=center>Junior Back End Developer | Computer Science Student | FOSS Enthusiast | GNU/Linux Nerd</h3>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- About Section -->
 ## About Me 👨🏻
 
