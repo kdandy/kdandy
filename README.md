@@ -63,12 +63,17 @@
 <br />
 
 <!-- About Section -->
- # About me
+## About Me 👨🏻
 
-  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: dandybdr@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [Here](https://github.com/kdandy/kdandy/issue)
+- 👨🏻‍💼 My name is `Dandy`
+- 🏠 Live in `Bekasi, Indonesia`
+- 👶🏻 Born in `Bekasi, April`
+- 🧍🏻‍♂️ `18` years old
+- 💻 `Computer Science` Student at `Diponegoro University`
+- 🌟 Currently, `JS` and `Tailwind` are my favorite tech stack.
+- 🌏 Languages
+  - 🇮🇩 Indonesian
+  - 🇬🇧 English
 
 </p>
 <br>
