@@ -118,7 +118,7 @@
 #### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![mySQL](https://img.shields.io/badge/mySQL-02050d?style=for-the-badge&logo=mySQL&logoColor=orange)
+![mySQL](https://img.shields.io/badge/mySQL-C8D5F7?style=for-the-badge&logo=mySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
