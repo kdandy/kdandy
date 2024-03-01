@@ -68,18 +68,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- About Section -->
-## About Me 👨🏻
-
-- 👨🏻‍💼 My name is `Dandy`
-- 🏠 Live in `Jakarta, Indonesia`
-- 🧍🏻‍♂️ `18` years old
-- 💻 `Computer Science` Student at `Diponegoro University`
-- 🌟 Currently, `JS` and `Tailwind` are my favorite tech stack.
-- 🌏 Languages
-  - 🇮🇩 Indonesian
-  - 🇬🇧 English
-
 </p>
 <br>
 
