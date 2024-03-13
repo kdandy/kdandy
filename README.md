@@ -143,7 +143,6 @@
 <a href="https://stackoverflow.com/users/18249850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18249850" height="30" width="40" /></a>
 </p>
 
-
 <h2 id="dukungan">💌 Donate</h2>
 
 You can support me on the Trakteer platform or other platforms! Your support will be very helpful for me, but with you starring this project has also been very helpful, you know!
