@@ -64,12 +64,8 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kdandy.kdandy" />
   <a href="https://github.com/kdandy"><img src="https://img.shields.io/github/followers/kdandy?label=followers&style=social"/></a>
-</p>
-
 
 </p>
-
-<br>
 
  <hr/>
  
