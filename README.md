@@ -72,7 +72,7 @@
 <h2 align="center">Languages</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,gcp" />
-    <img src= "https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,nestjs,mysql,go,fastify,linux,flask" /><br>
+    <img src= "https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,nestjs,mysql,go,docker,linux,flask" /><br>
 </div>
 
 <br/>
