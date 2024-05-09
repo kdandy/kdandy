@@ -1,6 +1,3 @@
-<h1 align="center">
-<img src="https://raw.githubusercontent.com/kdandy/kdandy/main/readmebox.svg">
-</h1>
 
 <!--
 <h2 align="center">
