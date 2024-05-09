@@ -67,14 +67,6 @@
 
 </p>
 
- <hr/>
- 
-<h2 align="center">Languages</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,go,gcp" />
-    <img src= "https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,nestjs,mysql,docker,linux,flask" /><br>
-</div>
-
 <br/>
 <div align="center">
   <a href="https://github.com/kdandy"><img alt="Dandy's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kdandy&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
