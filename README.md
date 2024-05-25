@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=DANDY+FAISHAL+FAHMI">「 Google Me 」</a>
     <br>
-    「 <b> Web Developer </b> 」
+    「 Web Developer from <b> Indonesian </b> 」
     <br>
     <br>
   </samp>
