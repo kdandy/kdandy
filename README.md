@@ -47,7 +47,7 @@
  <a href="https://dev.to/kdandy" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="kdandy" />
  </a>
- <a href="https://instagram.com/abharjaden" target="_blank">
+ <a href="https://instagram.com/sagarasheilendra" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="dandy" />
  </a>
  <a href="https://facebook.com/dandyfaish" target="_blank">
