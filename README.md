@@ -3,7 +3,9 @@
 
 Build an Web Developer for helping people. ❤️
 
-<p align="center">
+## Get in touch
+
+<p align="left">
  <a href="https://dandy.my.id" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="kdandy" />
  </a>
@@ -21,7 +23,7 @@ Build an Web Developer for helping people. ❤️
   </a> </br>
 
 </p>
-<p align="center">
+<p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kdandy.kdandy" />
   <a href="https://github.com/kdandy"><img src="https://img.shields.io/github/followers/kdandy?label=followers&style=social"/></a>
 
