@@ -1,6 +1,6 @@
 # Hello, I'm Dandy Faishal Fahmi 👋🏻
 
-![React](https://img.shields.io/badge/React-Intermediate-blue)
+![React](https://img.shields.io/badge/React-Advanced-blue)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue)
 ![Solidity](https://img.shields.io/badge/Solidity-Expert-darkgrey)
 ![Rust](https://img.shields.io/badge/Rust-Advanced-brown)
