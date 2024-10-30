@@ -3,14 +3,14 @@
 ![React](https://img.shields.io/badge/React-Intermediate-blue)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue)
 ![Solidity](https://img.shields.io/badge/Solidity-Intermediate-darkgrey)
-![Rust](https://img.shields.io/badge/Rust-Beginner-brown)
+![Rust](https://img.shields.io/badge/Rust-Advanced-brown)
 ![Python](https://img.shields.io/badge/Python-Security%20Tools-3776AB)
 ![Assembly](https://img.shields.io/badge/Assembly-Advanced-red)
-![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25)
-![Express](https://img.shields.io/badge/Express-Beginner-lightgrey)
+![Bash](https://img.shields.io/badge/Bash-Scripting-lightgrey)
+![Express](https://img.shields.io/badge/Express-Advanced-4EAA25)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-336791)
-![MongoDB](https://img.shields.io/badge/MongoDB-Beginner-brightgreen)
-![Node.js](https://img.shields.io/badge/Node.js-Beginner-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-brightgreen)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green)
 
 Senior Web Developer & Security Engineer located in Indonesia also Creating design & programming contents in [Sagacademy](https://www.instagram.com/sagarasheilendra/ "Sagacademy").
 
