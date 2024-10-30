@@ -14,7 +14,6 @@
 
 Senior Web Developer & Security Engineer located in Indonesia also Creating tools & programming contents in [Sagacademy](https://dandy.my.id/ "Sagacademy").
 
-- 🔭 I’m currently studying **Software Engineering** at Diponegoro University
 - 🌱 I’m currently learning **Security Engineer**, **Web3** and **Web Developer**
 - ⚙️ Mastering: `.js`,`.react`,`.python`,`.php`,`.node`
 - 👯 I’m looking to collaborate on **Open Source** projects
