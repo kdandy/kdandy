@@ -1,4 +1,4 @@
-# Hello, I'm Dandy 👋🏻
+# Hello, I'm Dandy Faishal Fahmi 👋🏻
 
 ![React](https://img.shields.io/badge/React-Intermediate-blue)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue)
