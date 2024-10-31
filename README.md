@@ -12,7 +12,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-brightgreen)
 ![Node.js](https://img.shields.io/badge/Node.js-Advanced-green)
 
-Senior Web Developer & Security Engineer located in Indonesia also Creating tools & programming contents in [Sagacademy](https://dandy.my.id/ "Sagacademy").
+Senior Web Developer & Security Engineer located in Indonesia also Creating tools & programming contents in [Sagacademy](https://sagacademy.dandy.my.id/ "Sagacademy").
 
 - 🌱 I’m currently learning **Security Engineer**, **Web3** and **Web Developer**
 - ⚙️ Mastering: `.js`,`.react`,`.python`,`.php`,`.node`
