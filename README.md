@@ -8,7 +8,7 @@
 ![Assembly](https://img.shields.io/badge/Assembly-Advanced-red)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-lightgrey)
 ![Express](https://img.shields.io/badge/Express-Advanced-4EAA25)
-![Golang](https://img.shields.io/badge/Golang-Intermediate-blue)
+![Golang](https://img.shields.io/badge/Golang-Advanced-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-Advanced-green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-336791)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-brightgreen)
