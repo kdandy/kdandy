@@ -8,9 +8,10 @@
 ![Assembly](https://img.shields.io/badge/Assembly-Advanced-red)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-lightgrey)
 ![Express](https://img.shields.io/badge/Express-Advanced-4EAA25)
+![Golang](https://img.shields.io/badge/Golang-Intermediate-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-336791)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-brightgreen)
-![Node.js](https://img.shields.io/badge/Node.js-Advanced-green)
 
 Senior Web Developer & Security Engineer located in Indonesia also Creating tools & programming contents in [Sagacademy](https://sagacademy.dandy.my.id/ "Sagacademy").
 
