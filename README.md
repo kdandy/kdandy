@@ -15,7 +15,7 @@
 
 Senior Web Developer & Security Engineer located in Indonesia also Creating tools & programming contents in [Sagacademy](https://sagacademy.dandy.my.id/ "Sagacademy").
 
-- 🌱 I’m currently learning **Security Engineer**, **Web3** and **Web Developer**
+- 🌱 I’m currently learning **Security Engineer**, **Machine Learning** and **Web3 Developer**
 - ⚙️ Mastering: `.js`,`.react`,`.python`,`.php`,`.node`,`.golang`
 - 👯 I’m looking to collaborate on **Open Source** projects
 - 💬 I'm mostly active within the **Facebook**, **Instagram**, **Dev.to** and **Youtube** communities
