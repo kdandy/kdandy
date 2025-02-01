@@ -1,4 +1,4 @@
-# Hi folks, I'm Dandy 👋🏻
+# Hi folks! 👋🏻
 
 ![React](https://img.shields.io/badge/React-Advanced-blue)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue)
