@@ -1,4 +1,9 @@
-# Hi folks! 👋🏻
+<h2> Hi, I'm Dandy <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+I am a cyber security researcher and software engineer. You can support my work with a few bucks [here](https://github.com/sponsors/kdandy) and enjoy the perks ;)
+
+Need cybersecurity/automation/generative AI expertise? I can help your organization tackle tough challenges.\
+Reach me at: `hello {@} dandy dot my dot id`
 
 ![React](https://img.shields.io/badge/React-Advanced-blue)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue)
@@ -12,14 +17,3 @@
 ![Node.js](https://img.shields.io/badge/Node.js-Advanced-green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-336791)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-brightgreen)
-
-Senior Web Developer & Security Engineer located in Indonesia also Creating tools & programming contents in [Sagacademy](https://sagacademy.dandy.my.id/ "Sagacademy").
-
-- 🌱 I’m currently learning **Security Engineer**, **Machine Learning** and **Web3 Developer**
-- ⚙️ Mastering: `.js`,`.react`,`.python`,`.php`,`.node`,`.golang`
-- 👯 I’m looking to collaborate on **Open Source** projects
-- 💬 I'm mostly active within the **Facebook**, **Instagram**, **Dev.to** and **Youtube** communities
-
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkdandy&countColor=%23263759" alt="Visitors">
-</p>
