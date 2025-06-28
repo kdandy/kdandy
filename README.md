@@ -3,7 +3,7 @@
 I am a cyber security researcher and software engineer. You can support my work with a few bucks [here](https://github.com/sponsors/kdandy) and enjoy the perks ;)
 
 Need cybersecurity/automation/generative AI expertise? I can help your organization tackle tough challenges.\
-Reach me at: `hello {@} dandy dot my dot id`
+Reach me at: `hello@dandy.my.id`
 
 ![React](https://img.shields.io/badge/React-Advanced-blue)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue)
