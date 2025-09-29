@@ -1,9 +1,11 @@
 <h2> Hi, I'm Dandy <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-I am a cyber security researcher and software engineer. You can support my work with a few bucks [here](https://github.com/sponsors/kdandy) and enjoy the perks ;)
+I am a Security Researcher & DevOps Engineer, specializing in SOC Analysis, Offensive Security, Secure SDLC, and Cloud-Native Architecture & Automation. My work focuses on building resilient systems, securing digital environments, and driving automation to solve complex challenges.
 
-Need cybersecurity/automation/generative AI expertise? I can help your organization tackle tough challenges.\
-Reach me at: `hello@dandy.my.id`
+if you’d like to support my ongoing research and engineering projects, you can do so [here](https://github.com/sponsors/kdandy) it helps me continue pushing the boundaries of cybersecurity and cloud innovation.
+
+Need expertise in cybersecurity, automation, or generative AI? I can help your organization design secure solutions, improve reliability, and tackle mission critical problems.
+📩 Reach me at: `hi@kdandy.com`
 
 ![React](https://img.shields.io/badge/React-Advanced-blue)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue)
